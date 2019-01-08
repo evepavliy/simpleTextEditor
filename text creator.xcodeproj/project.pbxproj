@@ -14,6 +14,18 @@
 		C7FF4E1821E520D800854E54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E1621E520D800854E54 /* LaunchScreen.storyboard */; };
 		C7FF4E2321E520D800854E54 /* text_creatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7FF4E2221E520D800854E54 /* text_creatorTests.swift */; };
 		C7FF4E2E21E520D800854E54 /* text_creatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7FF4E2D21E520D800854E54 /* text_creatorUITests.swift */; };
+		C7FF4E3F21E5222100854E54 /* Moon Flower.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3B21E5221F00854E54 /* Moon Flower.ttf */; };
+		C7FF4E4021E5222100854E54 /* Moon Flower.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3B21E5221F00854E54 /* Moon Flower.ttf */; };
+		C7FF4E4121E5222100854E54 /* Moon Flower.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3B21E5221F00854E54 /* Moon Flower.ttf */; };
+		C7FF4E4221E5222100854E54 /* Blacksword.otf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3C21E5222000854E54 /* Blacksword.otf */; };
+		C7FF4E4321E5222100854E54 /* Blacksword.otf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3C21E5222000854E54 /* Blacksword.otf */; };
+		C7FF4E4421E5222100854E54 /* Blacksword.otf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3C21E5222000854E54 /* Blacksword.otf */; };
+		C7FF4E4521E5222100854E54 /* SugarstyleMillenial-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3D21E5222000854E54 /* SugarstyleMillenial-Regular.ttf */; };
+		C7FF4E4621E5222100854E54 /* SugarstyleMillenial-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3D21E5222000854E54 /* SugarstyleMillenial-Regular.ttf */; };
+		C7FF4E4721E5222100854E54 /* SugarstyleMillenial-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3D21E5222000854E54 /* SugarstyleMillenial-Regular.ttf */; };
+		C7FF4E4821E5222100854E54 /* LemonMilk.otf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3E21E5222000854E54 /* LemonMilk.otf */; };
+		C7FF4E4921E5222100854E54 /* LemonMilk.otf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3E21E5222000854E54 /* LemonMilk.otf */; };
+		C7FF4E4A21E5222100854E54 /* LemonMilk.otf in Resources */ = {isa = PBXBuildFile; fileRef = C7FF4E3E21E5222000854E54 /* LemonMilk.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +59,10 @@
 		C7FF4E2921E520D800854E54 /* text creatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "text creatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7FF4E2D21E520D800854E54 /* text_creatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = text_creatorUITests.swift; sourceTree = "<group>"; };
 		C7FF4E2F21E520D800854E54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7FF4E3B21E5221F00854E54 /* Moon Flower.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Moon Flower.ttf"; sourceTree = "<group>"; };
+		C7FF4E3C21E5222000854E54 /* Blacksword.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Blacksword.otf; sourceTree = "<group>"; };
+		C7FF4E3D21E5222000854E54 /* SugarstyleMillenial-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SugarstyleMillenial-Regular.ttf"; sourceTree = "<group>"; };
+		C7FF4E3E21E5222000854E54 /* LemonMilk.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = LemonMilk.otf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +119,10 @@
 				C7FF4E1421E520D800854E54 /* Assets.xcassets */,
 				C7FF4E1621E520D800854E54 /* LaunchScreen.storyboard */,
 				C7FF4E1921E520D800854E54 /* Info.plist */,
+				C7FF4E3C21E5222000854E54 /* Blacksword.otf */,
+				C7FF4E3E21E5222000854E54 /* LemonMilk.otf */,
+				C7FF4E3B21E5221F00854E54 /* Moon Flower.ttf */,
+				C7FF4E3D21E5222000854E54 /* SugarstyleMillenial-Regular.ttf */,
 			);
 			path = "text creator";
 			sourceTree = "<group>";
@@ -229,9 +249,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7FF4E4821E5222100854E54 /* LemonMilk.otf in Resources */,
+				C7FF4E4521E5222100854E54 /* SugarstyleMillenial-Regular.ttf in Resources */,
 				C7FF4E1821E520D800854E54 /* LaunchScreen.storyboard in Resources */,
 				C7FF4E1521E520D800854E54 /* Assets.xcassets in Resources */,
 				C7FF4E1321E520D400854E54 /* Main.storyboard in Resources */,
+				C7FF4E3F21E5222100854E54 /* Moon Flower.ttf in Resources */,
+				C7FF4E4221E5222100854E54 /* Blacksword.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +263,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7FF4E4921E5222100854E54 /* LemonMilk.otf in Resources */,
+				C7FF4E4621E5222100854E54 /* SugarstyleMillenial-Regular.ttf in Resources */,
+				C7FF4E4021E5222100854E54 /* Moon Flower.ttf in Resources */,
+				C7FF4E4321E5222100854E54 /* Blacksword.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +274,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7FF4E4A21E5222100854E54 /* LemonMilk.otf in Resources */,
+				C7FF4E4721E5222100854E54 /* SugarstyleMillenial-Regular.ttf in Resources */,
+				C7FF4E4121E5222100854E54 /* Moon Flower.ttf in Resources */,
+				C7FF4E4421E5222100854E54 /* Blacksword.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
